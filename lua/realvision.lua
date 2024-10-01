@@ -1,5 +1,3 @@
--- RealVision is an addon that sets the player's view to any attachment on the playermodel.
-
 local function InitializeConVars()
     CreateClientConVar("realvision_enabled", "0", true, true)
     CreateClientConVar("realvision_attachment", "eyes", false, true)
