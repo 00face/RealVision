@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "Real Vision"
+	"author_name" "00face"
+	"info" " { 	"description": "Sets the view to any attachment on the playermodel.", 	"type": "effects", 	"tags":  	[ 		"roleplay", 		"realism" 	] }"
+}  
